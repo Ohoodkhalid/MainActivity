@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Main Activity</string>
+    <string name = "Score">The score is </string>
+    <string name="ScoreSP">Score of game </string>
+</resources>
